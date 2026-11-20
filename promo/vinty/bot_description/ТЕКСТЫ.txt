@@ -1,0 +1,66 @@
+ТЕКСТЫ ДЛЯ БОТОВ (бот ставит их себе сам при запуске; вручную — /setdescription и /setabouttext в @BotFather)
+Картинка над описанием: /setdescriptionpic в @BotFather, файлы *_description.png (1920×1080, 16:9)
+
+============================================================
+МАГАЗИН — vintyishop
+============================================================
+--- Описание (ru) — /setdescription
+🛍 vintyishop — магазин одежды прямо в Telegram.
+
+• Каталог: одежда, обувь, сумки, детское
+• В наличии и на заказ — сроки видны сразу
+• Корзина и заказ за минуту
+• Оплата переводом с чеком или договоримся в личке
+• Доставка или самовывоз
+• Статус заказа — в приложении, на каждом шаге
+
+Нажмите «Старт» и откройте магазин 👇
+
+--- О боте (ru) — /setabouttext
+vintyishop — магазин одежды в Telegram. В наличии и на заказ, доставка или самовывоз.
+
+--- Описание (uz) — /setdescription
+🛍 vintyishop — Telegram ichidagi kiyim do'koni.
+
+• Katalog: kiyim, poyabzal, sumkalar, bolalar uchun
+• Mavjud va buyurtma asosida — muddatlar darhol ko'rinadi
+• Savat va bir daqiqada buyurtma
+• To'lov: chek bilan o'tkazma yoki shaxsiy xabarda kelishamiz
+• Yetkazib berish yoki olib ketish
+• Buyurtma holati — ilovada, har bir bosqichda
+
+«Start» ni bosing va do'konni oching 👇
+
+--- О боте (uz) — /setabouttext
+vintyishop — Telegramdagi kiyim do'koni. Mavjud va buyurtma asosida, yetkazib berish yoki olib ketish.
+
+============================================================
+РЕСЕЙЛ — vintyiuzb
+============================================================
+--- Описание (ru) — /setdescription
+♻️ vintyiuzb — ресейл одежды в Telegram.
+
+• Продайте вещь: фото, размер, цена — готовый пост за минуту
+• Покупайте дешевле у других людей
+• Поиск по #хештегам: бренд, размер, категория
+• Бронь понравившейся вещи на 24 часа
+• Топ и закреп — чтобы вашу вещь увидели первой
+
+Нажмите «Старт» и откройте маркет 👇
+
+--- О боте (ru) — /setabouttext
+vintyiuzb — ресейл одежды в Telegram. Продавайте, покупайте дешевле, бронируйте вещи.
+
+--- Описание (uz) — /setdescription
+♻️ vintyiuzb — Telegramda kiyim reseyli.
+
+• Narsangizni soting: rasm, o'lcham, narx — bir daqiqada tayyor post
+• Boshqalardan arzonroq xarid qiling
+• #heshteglar bo'yicha qidiruv: brend, o'lcham, toifa
+• Yoqqan narsani 24 soatga band qilish
+• Top va qadash — narsangizni birinchi ko'rishsin
+
+«Start» ni bosing va marketni oching 👇
+
+--- О боте (uz) — /setabouttext
+vintyiuzb — Telegramda kiyim reseyli. Soting, arzonroq xarid qiling, narsalarni band qiling.
