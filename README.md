@@ -16,7 +16,7 @@
 
 **Компьютер или сервер:**
 ```bash
-git clone https://github.com/stelzxnoob-ops/instruments ~/instruments
+git clone https://github.com/stelzxnoob-ops/Instruments ~/instruments
 bash ~/instruments/install.sh                  # скиллы для всех проектов (~/.claude/skills)
 bash ~/instruments/install.sh ~/путь/к/проекту # плюс graphify-правила и хуки в проект
 ```
