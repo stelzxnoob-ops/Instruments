@@ -1,0 +1,12 @@
+{
+  "name": "instruments",
+  "owner": { "name": "stelzxnoob-ops" },
+  "metadata": { "description": "Общие инструменты для всех проектов" },
+  "plugins": [
+    {
+      "name": "instruments",
+      "source": "./plugins/instruments",
+      "description": "token-saver, graphify и хуки graphify для любого проекта"
+    }
+  ]
+}

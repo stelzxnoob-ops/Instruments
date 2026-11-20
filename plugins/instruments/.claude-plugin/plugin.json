@@ -1,0 +1,6 @@
+{
+  "name": "instruments",
+  "version": "1.0.0",
+  "description": "Общие инструменты: скиллы token-saver и graphify, хуки graphify (граф кода вместо чтения файлов целиком)",
+  "author": { "name": "stelzxnoob-ops" }
+}
