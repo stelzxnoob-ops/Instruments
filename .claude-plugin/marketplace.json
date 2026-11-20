@@ -1,0 +1,32 @@
+{
+  "name": "instruments",
+  "owner": {
+    "name": "stelzxnoob-ops"
+  },
+  "metadata": {
+    "description": "Общие инструменты для всех проектов"
+  },
+  "plugins": [
+    {
+      "name": "instruments",
+      "source": "./plugins/instruments",
+      "description": "token-saver, graphify и хуки graphify для любого проекта"
+    },
+    {
+      "name": "ponytail",
+      "source": {
+        "source": "github",
+        "repo": "DietrichGebert/ponytail"
+      },
+      "description": "Режим «ленивого сеньора»: самое простое решение, YAGNI, stdlib прежде зависимостей (DietrichGebert/ponytail, MIT)"
+    },
+    {
+      "name": "agent-skills",
+      "source": {
+        "source": "github",
+        "repo": "addyosmani/agent-skills"
+      },
+      "description": "Инженерные скиллы от спеки до релиза: TDD, ревью, отладка, безопасность (addyosmani/agent-skills, MIT)"
+    }
+  ]
+}

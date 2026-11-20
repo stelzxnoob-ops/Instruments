@@ -1,38 +1,15 @@
 {
-  "hooks": {
-    "PreToolUse": [
-      {
-        "matcher": "Bash|Grep",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "graphify hook-guard search",
-            "timeout": 10
-          }
-        ]
-      },
-      {
-        "matcher": "Read|Glob",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "graphify hook-guard read",
-            "timeout": 10
-          }
-        ]
+  "extraKnownMarketplaces": {
+    "instruments": {
+      "source": {
+        "source": "github",
+        "repo": "stelzxnoob-ops/Instruments"
       }
-    ],
-    "SessionStart": [
-      {
-        "matcher": "compact",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "graphify hook-guard compact",
-            "timeout": 10
-          }
-        ]
-      }
-    ]
+    }
+  },
+  "enabledPlugins": {
+    "instruments@instruments": true,
+    "ponytail@instruments": true,
+    "agent-skills@instruments": true
   }
 }
