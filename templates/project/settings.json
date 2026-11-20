@@ -1,10 +1,15 @@
 {
   "extraKnownMarketplaces": {
     "instruments": {
-      "source": { "source": "github", "repo": "stelzxnoob-ops/Instruments" }
+      "source": {
+        "source": "github",
+        "repo": "stelzxnoob-ops/Instruments"
+      }
     }
   },
   "enabledPlugins": {
-    "instruments@instruments": true
+    "instruments@instruments": true,
+    "ponytail@instruments": true,
+    "agent-skills@instruments": true
   }
 }
